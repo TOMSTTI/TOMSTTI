@@ -9,7 +9,7 @@ Este repositorio funciona como mi **tarjeta de presentación** para reclutadores
 
 ## 🔥 Sobre mí
 
-- 🧑‍💻 Desarrollador **[Full Stack / Backend / Frontend / Data / etc.]**
+- 🧑‍💻 Desarrollador **Backend / Frontend**
 - 🎯 Interesado/a en crear soluciones útiles y proyectos que tengan impacto real
 - 🌱 Actualmente aprendiendo: **[Ciberseguridad y Astro headless cms]**
 - 💬 Me gusta trabajar con equipos, compartir conocimiento y aprender constantemente
