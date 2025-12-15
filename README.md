@@ -26,14 +26,14 @@ Este repositorio funciona como mi **tarjeta de presentación** para reclutadores
 ### **⚙️ Backend**
 - Node.js  
 - Express  
-- FastAPI / Django *(si aplica)*
+- FastAPI
 - Phyton
   
 ### **🎨 Frontend**
 - React
 - AngularJS
 - HTML / CSS  
-- Tailwind / Bootstrap *(si aplica)*  
+- Bootstrap  
 
 ### **🗄️ Bases de datos**
 - PostgreSQL  
@@ -43,7 +43,7 @@ Este repositorio funciona como mi **tarjeta de presentación** para reclutadores
 
 ### **🔧 Herramientas**
 - Git & GitHub  
-- Docker *(opcional)*  
+- Docker  
 - Postman  
 - Linux / Bash
 - Google Cloud
